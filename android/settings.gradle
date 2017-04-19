@@ -1,0 +1,3 @@
+rootProject.name = 'AwesomeNativeBase1'
+
+include ':app'
